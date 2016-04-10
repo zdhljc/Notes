@@ -1,0 +1,8 @@
+https://egghead.io/
+https://thinkster.io/
+http://www.meetup.com/
+https://kapeli.com/dash
+https://www.codeschool.com/learn
+http://campus.codeschool.com/courses/shaping-up-with-angular-js/wrap-up
+
+AngularJS, React, Websocket, protobuf, NodeJs 
